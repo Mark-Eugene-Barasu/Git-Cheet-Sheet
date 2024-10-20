@@ -1,5 +1,5 @@
 # Git Cheat Sheet
-## [Check out the git-cheat-sheet](/Git-Cheat-Sheet.pdf)
+## [Check out the git-cheat-sheet](https://github.com/Mark-Eugene-Barasu/Git-Cheet-Sheet/blob/main/Git-Cheat-Sheet.pdf)
 
 # OR
 
