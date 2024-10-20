@@ -1,2 +1,2 @@
-![Model](Git-Cheat-Sheet.pdf)
+![Model](Git-Cheat-Sheet.pdf?raw=true)
 
