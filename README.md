@@ -1,2 +1,7 @@
-![Git-Cheat-Sheet.pdf](https://raw.githubusercontent.com/Mark-Eugene-Barasu/Git-Cheet-Sheet.git)
+# Git Cheat Sheet
+## [Check out the git-cheat-sheet](Git-Cheat-Sheet.pdf)
+
+# OR
+
+## [Click here to download the Git-cheat-Sheet](Git-Cheat-Sheet.pdf?raw=true)
 
