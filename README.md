@@ -3,4 +3,4 @@
 
 # OR
 
-## ![Click here to download the Git-cheat-Sheet](Git-Cheat-Sheet.pdf?raw=true)
+## [Click here to download the Git-cheat-Sheet](Git-Cheat-Sheet.pdf?raw=true)
