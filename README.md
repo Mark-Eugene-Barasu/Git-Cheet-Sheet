@@ -1,1 +1,2 @@
-# [embed]Git-Cheat-Sheet.pdf[/embed]
+![Model](Git-Cheat-Sheet.pdf)
+
